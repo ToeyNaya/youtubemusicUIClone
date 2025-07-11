@@ -1,0 +1,21 @@
+const quickplaylist = [
+    {title: "ถ้าเธอรักฉันจริง",artist: "ทรี แมน ดาวน์" ,view:10000 ,duration:'3:52' ,cover:"https://i.scdn.co/image/ab67616d0000b27363be91ff3ab88d6e570bb684"},
+    {title: "ฝนตกไหม",artist: "ทรี แมน ดาวน์" ,view:250000 ,duration:'3:52' ,cover:"https://i.scdn.co/image/ab67616d0000b27360f2f73480eace853c802085"},
+    {title: "เมา",artist: "ทรี แมน ดาวน์" ,view:1400 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/hV9w2KQn26U/maxresdefault.jpg"},
+    {title: "ข้างกัน",artist: "ทรี แมน ดาวน์" ,view:300 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/ks7p6DA0dKk/maxresdefault.jpg"},
+    {title: "ไม่ให้ไป",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://lh3.googleusercontent.com/VaXv3-tEOExzkdJEDcs5cGtxzyw3RuO0si5aWFI8K67Wchlq8Axyj7m72Au8U2IhjmP_Q1dJNp1bhzoXgw=w544-h544-l90-rj"},
+    {title: "ไปเถอะเธอ",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/IEBhLX9XoHQ/maxresdefault.jpg"},
+    {title: "น้อง",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://www.dochord.com/wp-content/uploads/2022/11/Three-Man-Down.webp"},
+    {title: "ผ่านตา",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://musicstation.kapook.com/files_music2008/picture/4/20074.jpg"},
+    {title: "ไม่อยากชิน",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/I-ndCXYh5kk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARVm--J-aj4N5XDihp7PjOBBFUEQ"},
+    {title: "วันเกิดฉันปีนี้",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/XTWJFGF-Ev4/maxresdefault.jpg"},
+    {title: "ถ้าเธอรักฉันจริง",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.scdn.co/image/ab67616d0000b27363be91ff3ab88d6e570bb684"},
+    {title: "ไม่ให้ไป",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/kzd0F1jFPnw/sddefault.jpg"},
+    {title: "อยู่ในสาย",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZiBdULHiA5SVv0a9opWWoupFd9xojHKKVw&s"},
+    {title: "เด็กเกินไป",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://images.workpointtoday.com/workpointnews/2023/04/26124925/1682488161_34587_S__60137475.jpg"},
+    {title: "ปล่อยให้เวลา",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://www.dochord.com/wp-content/uploads/2022/09/%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-Three-Man-Down.webp"},
+    {title: "เดาไม่เก่ง",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/-aG0B5NwOuw/maxresdefault.jpg"},
+    {title: "คุยคนเดียวเก่ง",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/mfsncuaQNtQ/maxresdefault.jpg"},
+    {title: "ความรักทำให้คนตาบอด",artist: "ทรี แมน ดาวน์" ,view:6800000 ,duration:'3:52' ,cover:"https://i.ytimg.com/vi/Nj3TSgQnT2M/maxresdefault.jpg"},
+];
+export default quickplaylist;
