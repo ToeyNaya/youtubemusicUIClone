@@ -1,8 +1,29 @@
-# React + Vite
+# YouTube Music UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clone หน้าตาเว็บไซต์ [YouTube Music](https://music.youtube.com) ด้วย **React.js** และ **Tailwind CSS**  
+โปรเจ็คนี้สร้างขึ้นเพื่อฝึกการพัฒนา UI แบบ component-based และการจัดการ layout อย่างมืออาชีพ
 
-Currently, two official plugins are available:
+## เทคโนโลยีที่ใช้
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🧠 React Hooks (useState, useEffect)
+- 📁 React Router
+- 🧪 Mock JSON Data
+
+## 📂 โครงสร้างโปรเจ็ค
+
+```bash
+clone-ytmusic/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── data/
+│   ├── App.jsx
+│   └── index.css
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
